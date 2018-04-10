@@ -7,7 +7,6 @@ tags: [uncategorized]
 redirect_from:
   - /2018/04/10/
 ---
-
 Hello World!
 
 The first post for this blog.
