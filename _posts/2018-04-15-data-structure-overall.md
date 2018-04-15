@@ -3,7 +3,7 @@ layout: post
 mathjax: true
 title: Data Structure Overall(Unfinished)
 description: the abstract of all data structures, including complexities, pros, cons, ...
-categories: [data structure]
+categories: [data_structure]
 tags: []
 redirect_from:
   - /2018/04/15/
