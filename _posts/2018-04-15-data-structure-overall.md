@@ -18,7 +18,7 @@ redirect_from:
 
 There is a great blogger collecting and resorting the complexities of all these common data structures and sorting algorithms. Thanks for his great work.
 
-![Computational Complexity Comparison]({{qwe98734.github.io}}/assets/images/computational_complexity_comparison.png)
+![Computational Complexity Comparison]({{https://qwe98734.github.io}}/assets/images/screenshots/computational_complexity_comparison.png)
 
 ## Common Data Strucutre Operations
 
