@@ -1,7 +1,7 @@
 ---
 layout: post
 mathjax: true
-title: Data Structure Overall(Unfinished)
+title: Overall Data Structure & Algorithm(Unfinished)
 description: the abstract of all data structures, including complexities, pros, cons, ...
 categories: [data_structure]
 tags: []
@@ -16,9 +16,16 @@ redirect_from:
 
 # Complexity
 
-There is a great blogger collecting and resorting the complexities of all these common data structures and sorting algorithms. Thanks for his great work.
+There is a great blogger collecting and resorting the complexities of all these common data structures and sorting algorithms. 
+Thanks for his great work and wikipedia.
 
-![Computational Complexity Comparison]({{https://qwe98734.github.io}}/assets/images/screenshots/computational_complexity_comparison.png)
+## Computational Complexity Comparison
+
+Graphs of functions commonly used in the analysis of algorithms, showing the number of operations N versus input size n for each function.
+
+![Computational Complexity Comparison](/assets/images/screenshots/computational_complexity_comparison.png)
+
+---
 
 ## Common Data Strucutre Operations
 
@@ -199,9 +206,11 @@ There is a great blogger collecting and resorting the complexities of all these 
 	</tr>
 </table>
 
-Among above data structures, the worst space complexities of all are O(n), except the Skip List is O(n log n).
+Note: among above data structures, the worst space complexities of all are O(n), except the Skip List is O(n log n).
 
-## Array Sorting Algorithms
+---
+
+## Common Array Sorting Algorithms
 
 <table>
  	<tr>
@@ -309,6 +318,10 @@ Among above data structures, the worst space complexities of all are O(n), excep
 	</tr>
 </table>
 
+---
+
 # Reference
 
 [Big-O Cheat Sheet](http://bigocheatsheet.com/), Eric Rowell
+
+[Computational Complexity Comparison Chart](https://en.wikipedia.org/wiki/Time_complexity), Wikipedia
